@@ -2,6 +2,8 @@
 
 - To contribute, fork the repo and add your library to the list.
 
+
+
 ## Sony
 
 ### PlayStation (PSX)
@@ -19,6 +21,9 @@
 
 ### PlayStation Vita (PSVITA)
 
+
+
+
 ## Microsoft
 
 ### XBOX
@@ -28,6 +33,9 @@
 ### XBOX ONE (X1)
 
 ### XBOX SERIES (XS)
+
+
+
 
 ## Nintendo
 
@@ -57,6 +65,27 @@
 
 ### Nintendo 3DS (3DS)
 
+
+
 ## SEGA
 
-### SEGA Genesis (Genesis)
+### SEGA Master System (MS)
+
+### SEGA Mega Drive / Genesis (MD / Genesis)
+
+### SEGA Game Gear (GG)
+
+### SEGA (Mega) CD (CD)
+
+### SEGA 32X (32X)
+
+### SEGA Pico (Pico)
+
+### SEGA Saturn (Saturn)
+
+### SEGA Dreamcast (Dreamcast)
+
+## PC
+
+- raylib - Various - [Link](https://raylib.com)
+- pygame - Python - [Link](https;//pygame.net)
