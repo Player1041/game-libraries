@@ -5,7 +5,7 @@
 
 
 ## Sony
-all of these are in C or C++
+All of these are in C or C++ (some may have interpreters)
 ### PlayStation (PSX)
 - PSX Toolchain [gcc](https://github.com/gmarkall/psx-toolchain)
 - PSn00bSDK - C++ - [Link](https://github.com/Lameguy64/PSn00bSDK) 
@@ -18,13 +18,14 @@ all of these are in C or C++
 ### PlayStation 4 (PS4)
 - OpenOrbis - [sdk & toolchain](https://github.com/OpenOrbis/OpenOrbis-PS4-Toolchain)
 ### PlayStation 5 (PS5)
--- see ps4 -- (no jailbreak yet that lets you run code, but it runs ps4 apps so ps4 homebrew will run one an exploit is found (probably))
+-- see ps4 -- (no jailbreak yet that lets you run code, but it runs ps4 apps so ps4 homebrew will run once an exploit is found (probably))
 ### PlayStation Portable (PSP)
-- pspsdk - [link](https://github.com/pspdev/pspsdk)
-- how to install - [link](https://github.com/pspdev/pspdev)
+- PSPSDK - [sdk](https://github.com/pspdev/pspsdk)
+- How to Install - [link](https://github.com/pspdev/pspdev)
+- QuickGame - C/C++/Lua - [link](https://github.com/iridescentrose/quickgame)
 ### PlayStation Vita (PSVITA)
-- sdk installer [vdpm](https://github.com/vitasdk/vdpm)
-- actual toolchain [vita toolchain](https://github.com/vitasdk/vita-toolchain)
+- VitaSDK - [vdpm](https://github.com/vitasdk/vdpm)
+- Vita Toolchain - [vita toolchain](https://github.com/vitasdk/vita-toolchain)
 
 
 ## Microsoft
@@ -88,7 +89,10 @@ all of these are in C or C++
 
 ### SEGA Dreamcast (Dreamcast)
 
-## PC
+## Other
 
 - raylib - Various - [Link](https://raylib.com)
-- pygame - Python - [Link](https;//pygame.net)
+- pygame - Python - [Link](https;//pygame.org)
+- kivy - Python - [Link](https://kivy.org/)
+- 
+
